@@ -1,0 +1,6 @@
+@Schronisko_HostAddress = http://localhost:5072
+
+GET {{Schronisko_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
